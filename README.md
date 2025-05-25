@@ -36,12 +36,17 @@ Welcome to my GitHub! As a Contact Center Director, I am passionate about optimi
 
 ## 🎓 Certifications
 
-- (Add your certifications here! For example:)
-- ITIL® Foundation Certificate in IT Service Management
-- CompTIA Security+
-- AWS Certified Solutions Architect – Associate
-- Certified ScrumMaster® (CSM)
-- (Add more as relevant...)
+- Certifed Business Analyst Professional  
+  [View Certificate (PDF)](certifications/certified-business-analyst-professional.pdf)
+
+- Google Cybersecurity Professional  
+  [View Certificate (PDF)](certifications/google-cybersecurity-professional.pdf)
+
+<!-- 
+To add more certifications, upload the PDF files to the certifications/ folder
+and use the format above:
+[View Certificate (PDF)](certifications/your-certificate-file.pdf)
+-->
 
 ---
 
@@ -66,3 +71,4 @@ Welcome to my GitHub! As a Contact Center Director, I am passionate about optimi
 ---
 
 > “Great service starts with empowered people and smart processes.”
+
