@@ -1,6 +1,6 @@
 # Hi there, I'm Eddie 👋
 
-## 👔 Contact Center Director | Service & Support Leader
+## 👔 Contact Center Senior Manger | Service & Support Leader
 
 Welcome to my GitHub! As a Contact Center Director, I am passionate about optimizing service delivery, enhancing support operations, and empowering teams to deliver exceptional customer experiences. My focus is on leveraging technology, process improvement, and data-driven strategies to exceed customer expectations.
 
