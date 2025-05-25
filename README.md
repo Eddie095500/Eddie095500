@@ -36,12 +36,7 @@ Welcome to my GitHub! As a Contact Center Director, I am passionate about optimi
 
 ## 🎓 Certifications
 
-- Certifed Business Analyst Professional  
-## Certifications
-
 - [Google Cybersecurity Certificate for Eddie Williams (PDF)](https://github.com/Eddie095500/Eddie095500/blob/main/Google%20Cybersecurity%20Certificate%20for%20Eddie%20Williams.pdf)
-
-## 🎓 Certifications
 
 - Certifed Business Analyst Professional  
   - [View Certificate (PDF)](https://github.com/Eddie095500/Eddie095500/blob/main/Eddie.Williams%20CBAP.pdf)
