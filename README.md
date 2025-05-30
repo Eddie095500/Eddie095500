@@ -21,11 +21,11 @@ Welcome to my GitHub! As a Contact Center Director, I am passionate about optimi
   A project dedicated to evaluating and enhancing access control mechanisms. This work highlights my experience with managing user permissions, authentication, and safeguarding sensitive information within organizations.
 
 - **Managing Authorization using Linux**  
-  Repository: [Managing-Authorization-using-Linux](https://github.com/Eddie095500/Managing-Authorization-using-Linux)  
+  Repository: [Managing-Authorization-using-Linux](https://github.com/Eddie095500/Update-a-file-of-IP-addresses-using-Python) 
   This project explores best practices and practical techniques for managing user and group authorization in Linux environments. It covers concepts such as file permissions, sudo policies, and secure access management for robust system administration.
 
 - **Update a file of IP addresses using Python**  
-  Repository: [Update-a-file-of-IP-addresses-using-Python](https://github.com/Eddie095500/Update-a-file-of-IP-addresses-using-Python)  
+  Repository: [Update-a-file-of-IP-addresses-using-Python](https://github.com/Eddie095500/Managing-Authorizaton-Using-Linux)  
   A practical Python project for automating the update of IP address files. This repository demonstrates scripting skills for managing IP lists efficiently, which is essential for IT operations, network management, and automation workflows.
 
 - **SQL**  
