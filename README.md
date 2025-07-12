@@ -29,7 +29,7 @@ Welcome to my GitHub! As a Contact Center Director, I am passionate about optimi
   A practical Python project for automating the update of IP address files. This repository demonstrates scripting skills for managing IP lists efficiently, which is essential for IT operations, network management, and automation workflows.
 
 - **SQL**  
-  Repository: [SQL](https://github.com/Eddie095500/SQL)  
+  Repository: [SQL-Database-Filtering-Using-AND-LIKE-and-NOT-Operators](https://github.com/https://github.com/Eddie095500/SQL-Database-Filtering-Using-AND-LIKE-and-NOT-Operators)
   A collection of SQL scripts and practical use cases for database management, querying, and reporting. This project highlights my experience in designing, maintaining, and extracting insights from relational databases for business operations and analytics.
 
 ---
